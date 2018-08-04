@@ -1,7 +1,8 @@
 # README.md
 
-repository of shared library code examples
+repository of shared library code examples  
+  
+  
+ex\_01 :  illustrates `LD_DEBUG` usage  
+ex\_02 :  illustrates `LD_PRELOAD` usage  
 
-
-example\_01 :  illustrates LD_DEBUG usage
-example\_02 :  illustrates `__attribute__(constructor)` usage
